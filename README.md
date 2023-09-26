@@ -1,6 +1,8 @@
 # Iterative-Scenario-Predictor-ISP-
 Harnessing NLP and LLMs, ISP offers a dynamic solution for simulating and predicting narrative evolutions across diverse domains. From forecasting news trajectories to modeling PR crises and financial outcomes, ISP provides a powerful tool for anticipating future scenarios based on current data.
 
+![ISP System Diagram](flowcharg.png)
+
 ## Introduction
 
 ISP stands at the frontier of AI-driven scenario simulation, harnessing the world models of modern large language models to offer iterative predictions on a wide range of topics. It's not just about predicting the news; it's about understanding the potential trajectory of any narrative or event, allowing businesses and individuals to anticipate and strategize effectively.
